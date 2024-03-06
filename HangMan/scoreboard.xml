@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Scoreboard>
+  <ScoreboardEntry>
+    <PlayerName>Zezva</PlayerName>
+    <Score>21000</Score>
+    <Date>2024-03-06 13:55:53</Date>
+  </ScoreboardEntry>
+  <ScoreboardEntry>
+    <PlayerName>zaza</PlayerName>
+    <Score>20000</Score>
+    <Date>2024-03-05 15:54:39</Date>
+  </ScoreboardEntry>
+  <ScoreboardEntry>
+    <PlayerName>Mirian</PlayerName>
+    <Score>20000</Score>
+    <Date>2024-03-06 13:48:53</Date>
+  </ScoreboardEntry>
+  <ScoreboardEntry>
+    <PlayerName>Lasha</PlayerName>
+    <Score>10000</Score>
+    <Date>2024-03-06 13:57:33</Date>
+  </ScoreboardEntry>
+  <ScoreboardEntry>
+    <PlayerName>Lasha</PlayerName>
+    <Score>0</Score>
+    <Date>2024-03-06 13:50:56</Date>
+  </ScoreboardEntry>
+</Scoreboard>
