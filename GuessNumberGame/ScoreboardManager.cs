@@ -60,7 +60,7 @@
             List<ScoreboardEntry> scoreboard = LoadScoreboard();
 
             Console.WriteLine("Scoreboard:");
-            Console.WriteLine("Rank\tPlayer Name\tScore\tDate");
+            Console.WriteLine("Rank\tName\tScore\tDate");
 
             for (int i = 0; i < scoreboard.Count; i++)
             {
